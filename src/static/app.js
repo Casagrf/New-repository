@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <strong>Participants</strong>
             ${participantsHtml}
           </div>
-        `;
+
         `;
 
         activitiesList.appendChild(activityCard);
